@@ -1,0 +1,167 @@
+{
+  "version": "0.1.0",
+  "schemaVersion": "0.0.2",
+  "name": "aRMT Test",
+  "healthIssues": [
+    "isolation"
+  ],
+  "protocols": [
+    {
+      "name": "AUDITUPM",
+      "showIntroduction": false,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "auditupm",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "This questionnaire is known as AUDIT",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": "Este cuestionario se conoce como AUDIT. "
+      },
+      "endText": {
+        "en": "Thank you for taking the time today.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": "Gracias por tomarte el tiempo para responder."
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 4,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "day",
+          "amount": 14
+        },
+        "repeatQuestionnaire": {
+          "unit": "min",
+          "unitsFromZero": [
+            510,
+            1950,
+            3390
+          ]
+        },
+        "reminders": {
+          "unit": "day",
+          "amount": 4,
+          "repeat": 1
+        }
+      }
+    },{
+      "name": "UCLA",
+      "showIntroduction": false,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "ucla",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "This questionnaire is known as UCLA Loneliness Scale.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": "Este cuestionario se conoce como Escala de Soledad de UCLA. "
+      },
+      "endText": {
+        "en": "Thank you for taking the time today.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": "Gracias por tomarte el tiempo para responder."
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 4,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "day",
+          "amount": 14
+        },
+        "repeatQuestionnaire": {
+          "unit": "min",
+          "unitsFromZero": [
+            510,
+            1950,
+            3390
+          ]
+        },
+        "reminders": {
+          "unit": "day",
+          "amount": 4,
+          "repeat": 1
+        }
+      }
+    }, {
+      "name": "GIERVELD",
+      "showIntroduction": false,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "gierveld",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "This questionnaire is known as Jong Gierveld Loneliness Scale.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": "Este cuestionario se conoce como Escala de Soledad de Jong Gierveld."
+      },
+      "endText": {
+        "en": "Thank you for taking the time today.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": "Gracias por tomarte el tiempo para responder."
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 4,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "day",
+          "amount": 14
+        },
+        "repeatQuestionnaire": {
+          "unit": "min",
+          "unitsFromZero": [
+            540,
+            1980,
+            3420
+          ]
+        },
+        "reminders": {
+          "unit": "day",
+          "amount": 4,
+          "repeat": 1
+        }
+      }
+    }
+  ]
+}

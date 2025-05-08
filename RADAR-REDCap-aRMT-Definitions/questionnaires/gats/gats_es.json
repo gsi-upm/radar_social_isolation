@@ -1,0 +1,395 @@
+[
+    {
+        "field_name": "gats_1",
+        "form_name": "gats",
+        "section_header": "Con respecto al uso del tabaco:",
+        "field_type": "radio",
+        "field_label": "1. ¿Alguna vez has fumado tabaco?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Si"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gats_2",
+        "form_name": "gats",
+        "section_header": "Con respecto al uso del tabaco:",
+        "field_type": "radio",
+        "field_label": "2. ¿Actualmente fumas tabaco?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Si"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "gats_3",
+        "form_name": "gats",
+        "section_header": "Con respecto al uso del tabaco:",
+        "field_type": "radio",
+        "field_label": "3. ¿Cuántos cigarrillos fumas por día?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Menos de 1"
+            },
+            {
+                "code": "1",
+                "label": "1-5"
+            },
+            {
+                "code": "2",
+                "label": "6-10"
+            },
+            {
+                "code": "3",
+                "label": "11-20"
+            },
+            {
+                "code": "4",
+                "label": "Más de 20"
+            },
+            {
+                "code": "5",
+                "label": "No fumo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gats_4",
+        "form_name": "gats",
+        "section_header": "La semana pasada ...",
+        "field_type": "radio",
+        "field_label": "4. ¿Cuántos días fumaste?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Menos de 1"
+            },
+            {
+                "code": "1",
+                "label": "1-2"
+            },
+            {
+                "code": "2",
+                "label": "3-4"
+            },
+            {
+                "code": "3",
+                "label": "5-6"
+            },
+            {
+                "code": "4",
+                "label": "cada día"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gats_5",
+        "form_name": "gats",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. ¿Alguna vez ha usado productos de tabaco Sin humo (por ejemplo, masticar tabaco, snuff)?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Si"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+            
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gats_6",
+        "form_name": "gats",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "6. ¿Utiliza actualmente productos de tabaco Sin humo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Si"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+            
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gats_7",
+        "form_name": "gats",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "7. ¿Cuántas veces por semana usa productos de tabaco Sin humo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Menos de 1"
+            },
+            {
+                "code": "1",
+                "label": "1-2"
+            },
+            {
+                "code": "2",
+                "label": "3-4"
+            },
+            {
+                "code": "3",
+                "label": "5-6"
+            },
+            {
+                "code": "4",
+                "label": "cada día"
+            },
+            {
+                "code": "5",
+                "label": "No fumo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gats_8",
+        "form_name": "gats",
+        "section_header": "Con respecto a los intentos para dejar de fumar ...",
+        "field_type": "radio",
+        "field_label": "8. ¿Alguna vez has intentado dejar de fumar?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Si"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+            
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "gats_9",
+        "form_name": "gats",
+        "section_header": "Con respecto a los intentos para dejar de fumar ...",
+        "field_type": "radio",
+        "field_label": "9. ¿Cuántas veces has intentado dejar de fumar?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Una vez"
+            },
+            {
+                "code": "1",
+                "label": "2-3 veces"
+            },
+            {
+                "code": "2",
+                "label": "Más de 3 veces"
+            },
+            {
+                "code": "5",
+                "label": "No fumo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "gats_10",
+        "form_name": "gats",
+        "section_header": "Con respecto a los intentos para dejar de fumar ...",
+        "field_type": "radio",
+        "field_label": "10. ¿Está planeando dejar de fumar en los próximos 6 meses?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Si"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            },
+            {
+                "code": "5",
+                "label": "No fumo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "gats_11",
+        "form_name": "gats",
+        "section_header": "Con respecto a los intentos para dejar de fumar ...",
+        "field_type": "radio",
+        "field_label": "11. ¿Ha recibido alguna ayuda o asesoramiento profeSional para dejar de fumar?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Si"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gats",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

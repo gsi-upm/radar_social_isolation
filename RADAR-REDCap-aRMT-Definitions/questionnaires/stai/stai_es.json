@@ -1,0 +1,762 @@
+[
+    {
+        
+        "field_name": "stai_1",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "1. Me siento tranquila",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_2",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "2. Me siento segura",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_3",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "3. Me siento tensa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_4",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "4. Me siento tensa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_5",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "5. Me siento a gusto",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_6",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "6. Me siento molesta",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_7",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "7. Actualmente me preocupo por posibles desgracias",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_8",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "8. Me siento satisfecha",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_9",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "9. Me siento asustada ",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_10",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "10. Me siento incomoda",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_11",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "11. Me siento seguro",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_12",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "12. Me siento nerviosa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_13",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "13. Me siento nerviosa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_14",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "14. Me siento indecisa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_15",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "15. Estoy relajada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_16",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "16. Me siento contenta ",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_17",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "17. Estoy preocupada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_18",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "18. Me siento confundida ",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_19",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "19. Me siento estable",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "stai_20",
+        "form_name": "stai",
+        "section_header": "Lea cada declaración y seleccione la respuesta apropiada para indicar cómo se siente en este momento, es decir, en este mismo momento.No hay respuestas correctas o incorrectas.No pase demasiado tiempo en ninguna declaración, sino que dé la respuesta que parece describir mejor sus sentimientos actuales.",
+        "field_label": "20. Me siento agradable",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Un poco"
+            },
+            {
+                "code": "3",
+                "label": "Mucho"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "stai",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

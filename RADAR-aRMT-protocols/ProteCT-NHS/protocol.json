@@ -1,0 +1,345 @@
+{
+    "version": "0.1.0",
+    "schemaVersion": "0.0.2",
+    "name": "ProteCT NHS Project",
+    "healthIssues": [
+      "COVID-19"
+    ],
+    "protocols": [
+      {
+        "name": "SAMPLE_INPUT_DEMO",
+        "showIntroduction": false,
+        "showInCalendar": false,
+        "isDemo": true,
+        "order": 3,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "sample-field-types",
+          "avsc": "task"
+        },
+        "startText": {
+          "en": "Welcome to testing tasks",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 1
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [
+              1000
+            ]
+          },
+          "reminders": {
+            "unit": "day",
+            "amount": 0,
+            "repeat": 0
+          },
+          "clinicalProtocol": {
+            "requiresInClinicCompletion": true,
+            "repeatAfterClinicVisit": {
+              "unit": "min",
+              "unitsFromZero": [
+                4
+              ]
+            }
+          }
+        }
+      },
+      {
+        "name": "COVID19_SYMPTOMS",
+        "showIntroduction": "always",
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "covid19_symptoms",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 3,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 1
+          },
+          "repeatQuestionnaire": {
+            "unit": "hour",
+            "unitsFromZero": [
+              8
+            ]
+          },
+          "reminders": {
+            "unit": "day",
+            "amount": 0,
+            "repeat": 0
+          }
+        }
+      },
+      {
+        "name": "COVID19_DIAGNOSIS",
+        "showIntroduction": "always",
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "covid19_diagnosis",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 3,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 1
+          },
+          "repeatQuestionnaire": {
+            "unit": "hour",
+            "unitsFromZero": [
+              9
+            ]
+          },
+          "reminders": {
+            "unit": "day",
+            "amount": 0,
+            "repeat": 0
+          }
+        }
+      },
+      {
+        "name": "CNS_COVID19_BASELINE",
+        "showIntroduction": false,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "cns_covid19_baseline",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 3,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 1
+          },
+          "repeatQuestionnaire": {
+            "unit": "hour",
+            "unitsFromZero": [
+              10
+            ]
+          },
+          "reminders": {
+            "unit": "day",
+            "amount": 0,
+            "repeat": 0
+          }
+        }
+      },
+      {
+        "name": "CNS_COVID19_FOLLOWUP",
+        "showIntroduction": false,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "cns_covid19_followup",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 3,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 1
+          },
+          "repeatQuestionnaire": {
+            "unit": "hour",
+            "unitsFromZero": [
+              11
+            ]
+          },
+          "reminders": {
+            "unit": "day",
+            "amount": 0,
+            "repeat": 0
+          }
+        }
+      },
+      {
+        "name": "VITD_NOTIFICATION",
+        "showIntroduction": false,
+        "showInCalendar": true,
+        "order": 0,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "vitd_notification",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 1,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 1
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [
+              570
+            ]
+          },
+          "reminders": {
+            "unit": "day",
+            "amount": 0,
+            "repeat": 0
+          },
+          "notification": {
+            "title": {
+              "en": "Have you taken your medications today?",
+              "it": "Have you taken your medications today?",
+              "es": "Have you taken your medications today?",
+              "nl": "Have you taken your medications today?",
+              "da": "Have you taken your medications today?",
+              "de": "Have you taken your medications today?"
+            }
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 1
+          }
+        }
+      }
+    ]
+  }
+  

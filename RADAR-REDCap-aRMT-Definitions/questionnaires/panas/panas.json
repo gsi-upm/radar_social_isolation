@@ -1,0 +1,844 @@
+[
+    {
+        
+        "field_name": "panas_1",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "1. Interested",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_2",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "2. Distressed",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "panas_3",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "3. Excited",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "panas_4",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "4. Upset",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_5",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "5. Strong",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_6",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "6. Guilty",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_7",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "7. Scared",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_8",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "8. Hostile",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_9",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "9. Enthusiastic",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_10",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "10. Proud",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_11",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "11. Irritable",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_12",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "12. Alert",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_13",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "13. Ashamed",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_14",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "14. Inspired",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_15",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "15. Nervous",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_16",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "16. Determined",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_17",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "17. Attentive",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_18",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "18. Jittery",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_19",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "19. Active",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_20",
+        "form_name": "panas",
+        "section_header": "Indicate the extent you have felt this way over the past week.",
+        "field_label": "20. Afraid",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Very slightly or not at all"
+            },
+            {
+                "code": "1",
+                "label": "A little"
+            },
+            {
+                "code": "2",
+                "label": "Moderately"
+            },
+            {
+                "code": "3",
+                "label": "Quite a bit"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

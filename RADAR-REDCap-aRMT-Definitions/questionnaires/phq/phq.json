@@ -1,0 +1,344 @@
+[
+    {
+        
+        "field_name": "phq_1",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "1. Low interest or pleasure in doing things",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_2",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "2. Have you felt down, depressed or hopeless?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_3",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "3. Have had difficulty falling or staying asleep, or have slept too long",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_4",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "4. Feeling tired or low energy",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_5",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "5. No appetite or has overeaten",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_6",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "6. You have felt bad about yourself - either that you are a failure or that you have looked bad to yourself or to your family.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_7",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "7. You have had difficulty concentrating on certain activities, such as reading the newspaper or watching television",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_8",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "8. Have you been moving or talking so slowly that other people might have noticed you? or the opposite - very restless or agitated that you have been moving much more than usual?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_9",
+        "form_name": "phq",
+        "section_header": "During the last 2 weeks, how often have you had discomfort due to the following problems?",
+        "field_label": "9. Thoughts that you would be better off dead or hurt in some way",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Any day"
+            },
+            {
+                "code": "1",
+                "label": "Some days"
+            },
+            {
+                "code": "2",
+                "label": "More than half of the days"
+            },
+            {
+                "code": "3",
+                "label": "Almost every day"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

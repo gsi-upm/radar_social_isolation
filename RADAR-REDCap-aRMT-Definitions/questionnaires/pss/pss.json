@@ -1,0 +1,592 @@
+[
+    {
+        
+        "field_name": "pss_1",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "1. How often have you been affected by something that has happened unexpectedly?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_2",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "2. How often have you felt unable to control the important things in your life?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "pss_3",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "3. How often have you felt nervous or stressed?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "pss_4",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "4. How often have you successfully handled life's little irritating problems?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_5",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "5. How often have you felt that you have effectively dealt with the major changes that have been occurring in your life?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_6",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "6. How often have you been confident about your ability to handle your personal problems?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_7",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "7. How often have you felt that things are going well for you?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_8",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "8. How often have you felt that you could not cope with all the things you had to do?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_9",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "9. How often have you been able to control the difficulties in your life?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_10",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "10. How often have you felt you had everything under control?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_11",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "11. How often have you been angry because things that have happened to you were out of your control?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_12",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "12. How often have you thought about the things you have left to do?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_13",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "13. How often have you been able to control how you spend your time?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_14",
+        "form_name": "pss",
+        "section_header": "The questions in this scale refer to your feelings and thoughts during the last month.",
+        "field_label": "14. How often have you felt that difficulties are piling up so much that you can't overcome them?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Almost never"
+            },
+            {
+                "code": "2",
+                "label": "Occasionally"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            },
+            {
+                "code": "4",
+                "label": "Very often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

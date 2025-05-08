@@ -1,0 +1,623 @@
+{
+    "version": "0.0.6",
+    "schemaVersion": "0.0.1",
+    "name": "RADAR EDIFY KCL s1",
+    "healthIssues": ["Eating Disorder"],
+    "protocols": [
+      {
+        "name": "PHQ8",
+        "showIntroduction": true,
+        "showInCalendar": true,
+        "isDemo": false,
+        "order": 4,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "phq8",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "This questionnaire is known as the PHQ8. Clinicians use it to assess current depression in patients.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 14
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [540]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 9,
+            "repeat": 1
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 3
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 3 days."
+            }
+          }
+        }
+      },
+      {
+        "name": "GAD7",
+        "showIntroduction": true,
+        "showInCalendar": true,
+        "isDemo": false,
+        "order": 3,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "gad7",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "This questionnaire is known as the GAD7. Clinicians use it to assess anxiety.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 3,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 14
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [540]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 9,
+            "repeat": 1
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 3
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 3 days."
+            }
+          }
+        }
+      },
+      {
+        "name": "ED15",
+        "showIntroduction": true,
+        "showInCalendar": true,
+        "isDemo": false,
+        "order": 8,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "ed15",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "This questionnaire is known as the ED15. Clinicians use it to assess eating attitudes and behaviours over the last week.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 3,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 14
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [540]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 9,
+            "repeat": 1
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 3
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 3 days."
+            }
+          }
+        }
+      },
+      {
+        "name": "ED Motivation",
+        "showIntroduction": false,
+        "showInCalendar": true,
+        "isDemo": false,
+        "order": 4,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "ed_motivation",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 14
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [20700]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 9,
+            "repeat": 1
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 3
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 3 days."
+            }
+          }
+        }
+      },
+      {
+        "name": "SPEECH TASK",
+        "showIntroduction": true,
+        "showInCalendar": true,
+        "isDemo": false,
+        "order": 4,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "audio_story",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "Find a quiet space.",
+          "it": "Trova uno spazio tranquillo.",
+          "nl": "Zoek een stille ruimte.",
+          "da": "Find et roligt sted.",
+          "de": "Suchen Sie sich einen ruhigen Platz.",
+          "es": "Encuentra un espacio tranquilo."
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "week",
+            "amount": 4
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [10620]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 24,
+            "repeat": 1
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 3
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 24 hours."
+            }
+          }
+        }
+      },
+      {
+        "name": "SPEECH TASK DEMO",
+        "showIntroduction": true,
+        "showInCalendar": true,
+        "isDemo": true,
+        "order": 4,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "audio_story",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "Find a quiet space.",
+          "it": "Trova uno spazio tranquillo.",
+          "nl": "Zoek een stille ruimte.",
+          "da": "Find et roligt sted.",
+          "de": "Suchen Sie sich einen ruhigen Platz.",
+          "es": "Encuentra un espacio tranquilo."
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "year",
+            "amount": 9999
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [540]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 0,
+            "repeat": 0
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 3
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 24 hours."
+            }
+          }
+        }
+      },
+      {
+        "name": "ESM",
+        "showIntroduction": "once",
+        "showInCalendar": false,
+        "isDemo": false,
+        "order": 4,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "esm_story",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "This questionnaire is known as the ESM. Clinicians use it to assess subjective experiences in daily life.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "week",
+            "amount": 12
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [
+              10796,
+              10940,
+              11061,
+              11139,
+              11328,
+              12225,
+              12306,
+              12529,
+              12632,
+              12707,
+              13690,
+              13840,
+              13940,
+              14036,
+              14190,
+              15065,
+              15190,
+              15347,
+              15528,
+              15605,
+              16539,
+              16680,
+              16840,
+              16913,
+              17014,
+              18029,
+              18089,
+              18240,
+              18385,
+              18529
+            ]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 0,
+            "repeat": 0
+          },
+          "completionWindow": {
+            "unit": "min",
+            "amount": 15
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 15 minutes."
+            }
+          }
+        }
+      },
+      {
+        "name": "ESM Morning",
+        "showIntroduction": "once",
+        "showInCalendar": false,
+        "isDemo": false,
+        "order": 4,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "esm_story_morning",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "This questionnaire is known as the ESM. Clinicians use it to assess subjective experiences in daily life.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "week",
+            "amount": 12
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [
+              14983,
+              13510,
+              10646,
+              12159,
+              16395,
+              17929
+            ]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 0,
+            "repeat": 0
+          },
+          "completionWindow": {
+            "unit": "min",
+            "amount": 15
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 15 minutes."
+            }
+          }
+        }
+      },
+      {
+        "name": "Weight Questionnaire",
+        "showIntroduction": true,
+        "showInCalendar": true,
+        "isDemo": false,
+        "order": 4,
+        "questionnaire": {
+          "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+          "name": "weight_question",
+          "avsc": "questionnaire"
+        },
+        "startText": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "endText": {
+          "en": "Thank you for taking the time today.",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "warn": {
+          "en": "",
+          "it": "",
+          "nl": "",
+          "da": "",
+          "de": "",
+          "es": ""
+        },
+        "estimatedCompletionTime": 2,
+        "protocol": {
+          "repeatProtocol": {
+            "unit": "day",
+            "amount": 28
+          },
+          "repeatQuestionnaire": {
+            "unit": "min",
+            "unitsFromZero": [540]
+          },
+          "reminders": {
+            "unit": "hour",
+            "amount": 0,
+            "repeat": 0
+          },
+          "completionWindow": {
+            "unit": "day",
+            "amount": 3
+          },
+          "notification": {
+            "title": {
+              "en": "Questionnaire time"
+            },
+            "text": {
+              "en": "Please finish them within 3 days."
+            }
+          }
+        }
+      }
+    ]
+  }
+  

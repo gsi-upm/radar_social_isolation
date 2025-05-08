@@ -1,0 +1,506 @@
+[
+    {
+        "field_name": "context_1",
+        "form_name": "context",
+        "section_header": "Para agregar un contexto ...",
+        "field_type": "radio",
+        "field_label": "1. ¿Qué estabas haciendo justo antes de comenzar esta encuesta?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Ejercicio físico"
+            },
+            {
+                "code": "1",
+                "label": "Ocio (pasatiempos)"
+            },
+            {
+                "code": "2",
+                "label": "Asignaciones universitarias"
+            },
+            {
+                "code": "3",
+                "label": "Laboral"
+            },
+            {
+                "code": "4",
+                "label": "De descanso"
+            },
+            {
+                "code": "5",
+                "label": "Otra"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "context_2",
+        "form_name": "context",
+        "section_header": "Para agregar un contexto ...",
+        "field_type": "radio",
+        "field_label": "2. ¿Dónde está realizando la encuesta ahora mismo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "En casa"
+            },
+            {
+                "code": "1",
+                "label": "En la calle,"
+            },
+            {
+                "code": "2",
+                "label": "En un bar"
+            },
+            {
+                "code": "3",
+                "label": "En transporte público"
+            },
+            {
+                "code": "4",
+                "label": "Otra"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "context_3",
+        "form_name": "context",
+        "section_header": "Para agregar un contexto ...",
+        "field_type": "radio",
+        "field_label": "3. ¿Te han pasado algún evento inusual?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Sí"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "stressd",
+        "form_name": "context",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "1. En general, ¿cómo calificaría su nivel actual de estrés? (Siendo 5 más alto y 1 más bajo)",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "1"
+            },
+            {
+                "code": "1",
+                "label": "2"
+            },
+            {
+                "code": "2",
+                "label": "3"
+            },
+            {
+                "code": "3",
+                "label": "4"
+            },
+            {
+                "code": "4",
+                "label": "5"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq_1",
+        "form_name": "context",
+        "section_header": "En las últimas dos semanas, ¿con qué frecuencia te ha molestado los siguientes problemas?",
+        "field_type": "radio",
+        "field_label": "1. Sentirse nerviosa, ansiosa o al borde.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Varios días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq_2",
+        "form_name": "context",
+        "section_header": "En las últimas dos semanas, ¿con qué frecuencia te ha molestado los siguientes problemas?",
+        "field_type": "radio",
+        "field_label": "2. No poder detener o controlar preocupación",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Varios días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq_3",
+        "form_name": "context",
+        "section_header": "En las últimas dos semanas, ¿con qué frecuencia te ha molestado los siguientes problemas?",
+        "field_type": "radio",
+        "field_label": "3. Sentirse deprimida, deprimida o sin esperanza",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Varios días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq_4",
+        "form_name": "context",
+        "section_header": "En las últimas dos semanas, ¿con qué frecuencia te ha molestado los siguientes problemas?",
+        "field_type": "radio",
+        "field_label": "4. Poco interés o placer en hacer cosas",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "De nada"
+            },
+            {
+                "code": "1",
+                "label": "Varios días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "work",
+        "form_name": "context",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "1. ¿Ha tenido algún examen o entrega hoy que haya estado exigiendo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Sí"
+            },
+            {
+                "code": "1",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "sleepd",
+        "form_name": "context",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "1.¿Cuántas horas consideras que has dormido hoy (no es el momento que has estado en la cama)?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "3 o menos"
+            },
+            {
+                "code": "1",
+                "label": "4"
+            },
+            {
+                "code": "2",
+                "label": "5"
+            },
+            {
+                "code": "3",
+                "label": "6"
+            },
+            {
+                "code": "4",
+                "label": "7"
+            },
+            {
+                "code": "5",
+                "label": "8"
+            },
+            {
+                "code": "6",
+                "label": "9"
+            },
+            {
+                "code": "7",
+                "label": "10 o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "exrs_1",
+        "form_name": "context",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "1. ¿Cuántos minutos has pasado haciendo una actividad física exigente hoy (correr, levantar poder, jugar al fútbol o al baloncesto ...)?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "0-30 min"
+            },
+            {
+                "code": "1",
+                "label": "30-60 min"
+            },
+            {
+                "code": "2",
+                "label": "1h-1h30 min"
+            },
+            {
+                "code": "3",
+                "label": "1h30min-2h"
+            },
+            {
+                "code": "4",
+                "label": "2h-2h30min"
+            },
+            {
+                "code": "5",
+                "label": "2h30min-3h"
+            },
+            {
+                "code": "6",
+                "label": "3h-3h30min"
+            },
+            {
+                "code": "7",
+                "label": "3h30min o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "exrs_2",
+        "form_name": "context",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. ¿Cuántos minutos has pasado haciendo una actividad física moderada hoy (trotar, yoga, ciclismo, trekking ...)?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "0-30 min"
+            },
+            {
+                "code": "1",
+                "label": "30-60 min"
+            },
+            {
+                "code": "2",
+                "label": "1h-1h30 min"
+            },
+            {
+                "code": "3",
+                "label": "1h30min-2h"
+            },
+            {
+                "code": "4",
+                "label": "2h-2h30min"
+            },
+            {
+                "code": "5",
+                "label": "2h30min-3h"
+            },
+            {
+                "code": "6",
+                "label": "3h-3h30min"
+            },
+            {
+                "code": "7",
+                "label": "3h30min o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "context",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

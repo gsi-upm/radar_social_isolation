@@ -1,0 +1,376 @@
+[
+    {
+        "field_name": "gierveld_1",
+        "form_name": "gierveld",
+        "section_header": "¿Con qué frecuencia, en las últimas dos semanas, ha tenido cualquiera de los siguientes problemas?",
+        "field_type": "radio",
+        "field_label": "1. Siempre hay alguien con quien puede hablar de sus problemas diarios.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(-)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_2",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. Echa de menos tener un buen amigo de verdad.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_3",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. Siente una sensación de vacío a su alrededor.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_4",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. Hay suficientes personas a las que puede recurrir en caso de necesidad.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(-)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_5",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. Echa de menos la compañía de otras personas.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_6",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "6. Piensa que su círculo de amistades es demasiado limitado.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_7",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "7. Tiene mucha gente en la que confiar completamente.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(-)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_8",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "8. Hay suficientes personas con las que tiene una amistad muy estrecha.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(-)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_9",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "9. Echa de menos tener gente a su alrededor.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_10",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "10. Se siente abandonado a menudo.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_11",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "11. Puede contar con sus amigos siempre que lo necesita.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Más o menos"
+            },
+            {
+                "code": "2",
+                "label": "Sí"
+            }
+        ],
+        "field_note": "(−)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

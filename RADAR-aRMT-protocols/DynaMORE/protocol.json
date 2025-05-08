@@ -1,0 +1,125 @@
+{
+  "version": "0.1.1",
+  "schemaVersion": "0.1.0",
+  "name": "ESM_DynaMORE",
+  "healthIssues": [
+    "general"
+  ],
+  "protocols": [
+    {
+      "name": "ESM_DynaMORE",
+      "showIntroduction": false,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "ESM_DynaMORE",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "Time for a new questionnaire!",
+        "it": "",
+        "nl": "Tijd voor een nieuwe vragenlijst!",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "endText": {
+        "en": "Thanks for filling this out!",
+        "it": "",
+        "nl": "Bedankt voor het invullen!",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 10,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "year",
+          "amount": 9999
+        },
+        "repeatQuestionnaire": {
+          "unit": "min",
+          "unitsFromZero": [
+			482,
+			542,
+			672,
+			806,
+			833,
+			981,
+			1041,
+			1093,
+			1217,
+			1265,
+			1901,
+			2012,
+			2112,
+			2224,
+			2267,
+			2428,
+			2466,
+			2574,
+			2689,
+			2789,
+			3357,
+			3425,
+			3564,
+			3628,
+			3712,
+			3847,
+			3873,
+			4044,
+			4091,
+			4199,
+			4800,
+			4877,
+			5007,
+			5099,
+			5132,
+			5228,
+			5356,
+			5415,
+			5520,
+			5649,
+			6211,
+			6333,
+			6392,
+			6513,
+			6634,
+			6672,
+			6817,
+			6896,
+			6985,
+			7100,
+			7674,
+			7803,
+			7841,
+			7966,
+			8036,
+			8112,
+			8192,
+			8336,
+			8414,
+			8541				
+          ]
+        },
+        "reminders": {
+          "unit": "day",
+          "amount": 0,
+          "repeat": 0
+        },
+        "completionWindow": {
+          "unit": "min",
+          "amount": 10
+        }
+      }
+    }
+  ]
+}
+

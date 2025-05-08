@@ -1,0 +1,140 @@
+{
+  "version": "0.0.7",
+  "schemaVersion": "0.0.1",
+  "name": "RADAR MAAM QMUL s1",
+  "healthIssues": ["ADHD", "menstrual", "menopause"],
+  "protocols": [
+    {
+      "name": "Day B Questionnaires",
+      "showIntroduction": true,
+      "showInCalendar": true,
+      "isDemo": false,
+      "order": 4,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "maam_day_b",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "endText": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 2,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "day",
+          "amount": 2
+        },
+        "repeatQuestionnaire": {
+          "unit": "min",
+          "unitsFromZero": [
+            2460
+          ]
+        },
+        "reminders": {
+          "unit": "hour",
+          "amount": 3,
+          "repeat": 1
+        },
+        "completionWindow": {
+          "unit": "hour",
+          "amount": 7
+        },
+        "notification": {
+          "title": {
+            "en": "Questionnaire time"
+          },
+          "text": {
+            "en": "Please complete these questionnaires this evening reflecting on your day. You will also receive a reminder in 3 hours if you haven't completed them by then."
+          }
+        }
+      }
+    },
+    {
+      "name": "Day A Questionnaires",
+      "showIntroduction": true,
+      "showInCalendar": true,
+      "isDemo": false,
+      "order": 4,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/RADAR-CNS/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "maam_day_a",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "endText": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 2,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "day",
+          "amount": 2
+        },
+        "repeatQuestionnaire": {
+          "unit": "min",
+          "unitsFromZero": [
+            1020
+          ]
+        },
+        "reminders": {
+          "unit": "hour",
+          "amount": 3,
+          "repeat": 1
+        },
+        "completionWindow": {
+          "unit": "hour",
+          "amount": 7
+        },
+        "notification": {
+          "title": {
+            "en": "Questionnaire time"
+          },
+          "text": {
+            "en": "Please complete these questionnaires this evening reflecting on your day. You will also receive a reminder in 3 hours if you haven't completed them by then."
+          }
+        }
+      }
+    }
+  ]
+}

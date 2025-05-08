@@ -1,0 +1,406 @@
+[
+    {
+        "field_name": "auditupm_1",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "1. ¿Con qué frecuencia consume bebidas que contienen alcohol?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Mensual o menos"
+            },
+            {
+                "code": "2",
+                "label": "2-4 veces al mes"
+            },
+            {
+                "code": "3",
+                "label": "2-3 veces por semana"
+            },
+            {
+                "code": "4",
+                "label": "4 o más veces por semana"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_2",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "2. ¿Cuántas bebidas alcohólicas tienes en un día típico?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "1-2"
+            },
+            {
+                "code": "1",
+                "label": "3-4"
+            },
+            {
+                "code": "2",
+                "label": "5-6"
+            },
+            {
+                "code": "3",
+                "label": "7-9"
+            },
+            {
+                "code": "4",
+                "label": "10 o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_3",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "3. ¿Con qué frecuencia tiene 5 o más bebidas en una sola vez?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Menos que mensualmente"
+            },
+            {
+                "code": "2",
+                "label": "Mensual"
+            },
+            {
+                "code": "3",
+                "label": "Semanalmente"
+            },
+            {
+                "code": "4",
+                "label": "Diariamente o casi diario"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_4",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "4. ¿Con qué frecuencia en el último año no pudo dejar de beber una vez que comenzó?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Menos que mensualmente"
+            },
+            {
+                "code": "2",
+                "label": "Mensual"
+            },
+            {
+                "code": "3",
+                "label": "Semanalmente"
+            },
+            {
+                "code": "4",
+                "label": "Diariamente o casi diario"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_5",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "5. ¿Con qué frecuencia en el año pasado no ha podido hacer lo que normalmente se espera que haga como resultado de beber?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Menos que mensualmente"
+            },
+            {
+                "code": "2",
+                "label": "Mensual"
+            },
+            {
+                "code": "3",
+                "label": "Semanalmente"
+            },
+            {
+                "code": "4",
+                "label": "Diariamente o casi diario"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_6",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "6. ¿Con qué frecuencia durante el año pasado ha necesitado una bebida por la mañana para que avance después de una noche de consumo excesivo de alcohol?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Menos que mensualmente"
+            },
+            {
+                "code": "2",
+                "label": "Mensual"
+            },
+            {
+                "code": "3",
+                "label": "Semanalmente"
+            },
+            {
+                "code": "4",
+                "label": "Diariamente o casi diario"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_7",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "7. ¿Con qué frecuencia durante el año pasado te has sentido culpable o arrepentido después de beber?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Menos que mensualmente"
+            },
+            {
+                "code": "2",
+                "label": "Mensual"
+            },
+            {
+                "code": "3",
+                "label": "Semanalmente"
+            },
+            {
+                "code": "4",
+                "label": "Diariamente o casi diario"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_8",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "8. ¿Con qué frecuencia durante el año pasado ha olvidado lo que sucedió la noche anterior debido al alcohol?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Menos que mensualmente"
+            },
+            {
+                "code": "2",
+                "label": "Mensual"
+            },
+            {
+                "code": "3",
+                "label": "Semanalmente"
+            },
+            {
+                "code": "4",
+                "label": "Diariamente o casi diario"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_9",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "9. ¿Usted o alguien más resultaron heridos como resultado de su consumo de alcohol?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Sí, pero no el año pasado"
+            },
+            {
+                "code": "2",
+                "label": "Sí, durante el año pasado"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "auditupm_10",
+        "form_name": "auditupm",
+        "section_header": "Con respecto al consumo de alcohol ...",
+        "field_type": "radio",
+        "field_label": "10. ¿Se ha preocupado a un familiar, amigo o profesional de la salud por su consumo de alcohol o sugirió que reduzca su consumo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "Sí, pero no el año pasado"
+            },
+            {
+                "code": "2",
+                "label": "Sí, durante el año pasado"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "auditupm",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

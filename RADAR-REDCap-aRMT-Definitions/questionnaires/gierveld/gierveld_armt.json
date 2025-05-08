@@ -1,0 +1,376 @@
+[
+    {
+        "field_name": "gierveld_1",
+        "form_name": "gierveld",
+        "section_header": "How often, in the past two weeks, have you experienced any of the following?",
+        "field_type": "radio",
+        "field_label": "1. There is always someone you can talk to about your daily problems.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(−)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_2",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. You miss having a real friend.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_3",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. You experience a sense of emptiness around you.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_4",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. There are enough people you can rely on when you have problems.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(−)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_5",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. You miss the company of other people.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_6",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "6. You think your circle of friends is too limited.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_7",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "7. There are many people you can trust completely.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(−)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_8",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "8. There are enough people with whom you have a very close relationship.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(−)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_9",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "9. You miss having people around you.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_10",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "10. You often feel abandoned.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(+)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gierveld_11",
+        "form_name": "gierveld",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "11. You can count on your friends whenever you need them.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "No"
+            },
+            {
+                "code": "1",
+                "label": "More or less"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "(−)",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gierveld",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

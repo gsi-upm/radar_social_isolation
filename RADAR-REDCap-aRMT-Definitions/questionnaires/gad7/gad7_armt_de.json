@@ -1,0 +1,268 @@
+[
+    {
+        "field_name": "gad7_1",
+        "form_name": "gad7",
+        "section_header": "Wie oft fühlten Sie sich im Verlauf der letzten zwei Wochen durch die folgenden Beschwerden beeinträchtigt?",
+        "field_type": "radio",
+        "field_label": "Nervösität, Ängstlichkeit oder Anspannung",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Überhaupt nicht"
+            },
+            {
+                "code": "1",
+                "label": "An einzelnen Tagen"
+            },
+            {
+                "code": "2",
+                "label": "An mehr als der Hälfte der Tage"
+            },
+            {
+                "code": "3",
+                "label": "Beinahe jeden Tag"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gad7",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gad7_2",
+        "form_name": "gad7",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Nicht in der Lage zu sein, Sorgen zu stoppen oder zu kontrollieren",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Überhaupt nicht"
+            },
+            {
+                "code": "1",
+                "label": "An einzelnen Tagen"
+            },
+            {
+                "code": "2",
+                "label": "An mehr als der Hälfte der Tage"
+            },
+            {
+                "code": "3",
+                "label": "Beinahe jeden Tag"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gad7",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gad7_3",
+        "form_name": "gad7",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Übermäßige Sorgen bezüglich verschiedener Angelegenheiten",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Überhaupt nicht"
+            },
+            {
+                "code": "1",
+                "label": "An einzelnen Tagen"
+            },
+            {
+                "code": "2",
+                "label": "An mehr als der Hälfte der Tage"
+            },
+            {
+                "code": "3",
+                "label": "Beinahe jeden Tag"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gad7",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gad7_4",
+        "form_name": "gad7",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Schwierigkeiten zu entspannen",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Überhaupt nicht"
+            },
+            {
+                "code": "1",
+                "label": "An einzelnen Tagen"
+            },
+            {
+                "code": "2",
+                "label": "An mehr als der Hälfte der Tage"
+            },
+            {
+                "code": "3",
+                "label": "Beinahe jeden Tag"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gad7",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gad7_5",
+        "form_name": "gad7",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Rastlosigkeit, so dass Stillsitzen schwer fällt",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Überhaupt nicht"
+            },
+            {
+                "code": "1",
+                "label": "An einzelnen Tagen"
+            },
+            {
+                "code": "2",
+                "label": "An mehr als der Hälfte der Tage"
+            },
+            {
+                "code": "3",
+                "label": "Beinahe jeden Tag"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gad7",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gad7_6",
+        "form_name": "gad7",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Schnelle Verärgerung oder Gereiztheit",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Überhaupt nicht"
+            },
+            {
+                "code": "1",
+                "label": "An einzelnen Tagen"
+            },
+            {
+                "code": "2",
+                "label": "An mehr als der Hälfte der Tage"
+            },
+            {
+                "code": "3",
+                "label": "Beinahe jeden Tag"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gad7",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "gad7_7",
+        "form_name": "gad7",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "Gefühl der Angst, so als würde etwas Schlimmes passieren",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Überhaupt nicht"
+            },
+            {
+                "code": "1",
+                "label": "An einzelnen Tagen"
+            },
+            {
+                "code": "2",
+                "label": "An mehr als der Hälfte der Tage"
+            },
+            {
+                "code": "3",
+                "label": "Beinahe jeden Tag"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "y",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "gad7",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

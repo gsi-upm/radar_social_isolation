@@ -1,0 +1,382 @@
+[
+    {
+        "field_name": "ucla_1",
+        "form_name": "ucla",
+        "section_header": "How often do you feel the following?",
+        "field_type": "radio",
+        "field_label": "1. How often do you feel sad doing so many things alone?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_2",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. How often do you feel that you have no one to talk to?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_3",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. How often do you feel that you can't stand being so alone?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_4",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. How often do you feel as if no one really understands you?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_5",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. How often do you find yourself waiting for others to call or write to you?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_6",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "6. How often do you feel completely alone?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_7",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "7. How often do you feel that you are unable to connect or communicate with those around you?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_8",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "8. How often do you feel desperately in need of companionship?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_9",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "9. How often do you find it difficult to make friends?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ucla_10",
+        "form_name": "ucla",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "10. How often do you feel ignored and excluded by others?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Never"
+            },
+            {
+                "code": "1",
+                "label": "Rarely"
+            },
+            {
+                "code": "2",
+                "label": "Sometimes"
+            },
+            {
+                "code": "3",
+                "label": "Often"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ucla",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

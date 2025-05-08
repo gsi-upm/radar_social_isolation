@@ -1,0 +1,344 @@
+[
+    {
+        
+        "field_name": "phq_1",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "1. Bajo interés o placer en hacer cosas",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_2",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "2. ¿Te has sentido deprimida, deprimida o sin esperanza?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_3",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "3. Ha tenido dificultades para concentrarse o quedarse dormido, o haber dormido demasiado tiempo",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_4",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "4. Sentirse cansada o con poca energía",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_5",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "5. No hay apetito o ha comido en exceso",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_6",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "6. Te has sentido mal contigo mismo, ya sea que eres un fracaso o que te has visto mal o para tu familia.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_7",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "7. Has tenido dificultades para concentrarse en ciertas actividades, como leer el periódico o ver televisión.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_8",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "8. ¿Te has estado moviendo o hablando tan lentamente que otras personas podrían haberte notado?¿O lo contrario, muy inquieto o agitado que te has estado moviendo mucho más de lo habitual?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día "
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "phq_9",
+        "form_name": "phq",
+        "section_header": "Durante las últimas 2 semanas, ¿con qué frecuencia ha tenido molestias debido a los siguientes problemas?",
+        "field_label": "9. Pensamientos de que estarías mejor muerto o herido de alguna manera",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Cualquier día"
+            },
+            {
+                "code": "1",
+                "label": "Algunos días"
+            },
+            {
+                "code": "2",
+                "label": "Más de la mitad de los días"
+            },
+            {
+                "code": "3",
+                "label": "Casi todos los días"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

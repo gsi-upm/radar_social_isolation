@@ -1,0 +1,592 @@
+[
+    {
+        
+        "field_name": "pss_1",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "1. ¿Con qué frecuencia te ha afectado algo que ha sucedido inesperadamente?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_2",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "2. ¿Con qué frecuencia te has sentido incapaz de controlar las cosas importantes en tu vida?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "pss_3",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "3. ¿Con qué frecuencia te has sentido nerviosa o estresada?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "pss_4",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "4. ¿Con qué frecuencia ha manejado con éxito los pequeños problemas irritantes de la vida?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_5",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "5. ¿Con qué frecuencia ha sentido que ha tratado efectivamente los principales cambios que han estado ocurriendo en su vida?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_6",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "6. ¿Con qué frecuencia ha tenido confianza sobre su capacidad para manejar sus problemas personales?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_7",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "7. ¿Con qué frecuencia ha sentido que las cosas te van bien?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_8",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "8. ¿Con qué frecuencia ha sentido que no podía hacer frente a todas las cosas que tenía que hacer?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_9",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "9. ¿Con qué frecuencia ha podido controlar las dificultades en su vida?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_10",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "10. ¿Con qué frecuencia ha sentido que tenía todo bajo control?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_11",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "11. ¿Con qué frecuencia has estado enojado porque las cosas que te han pasado estaban fuera de tu control?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_12",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "12. ¿Con qué frecuencia has pensado en las cosas que te quedan por hacer?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_13",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "13. ¿Con qué frecuencia ha podido controlar cómo pasa su tiempo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "pss_14",
+        "form_name": "pss",
+        "section_header": "Las preguntas en esta escala se refieren a sus sentimientos y pensamientos durante el último mes.",
+        "field_label": "14. ¿Con qué frecuencia ha sentido que las dificultades se están acumulando tanto que no puede superarlas?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Casi nunca"
+            },
+            {
+                "code": "2",
+                "label": "Ocasionalmente"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            },
+            {
+                "code": "4",
+                "label": "Muy a menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "pss",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

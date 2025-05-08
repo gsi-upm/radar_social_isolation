@@ -1,0 +1,31 @@
+name: aRMT
+vendor: RADAR
+model: aRMT-App
+version: 1.5.0
+assessment_type: QUESTIONNAIRE
+doc: aRMT Questionnaires definition. Contain Ucla and Gierveld isolation scale.
+data:
+  - type: UCLA
+    topic: questionnaire_ucla
+    value_schema: .active.questionnaire.Questionnaire
+    questionnaire_definition_url: https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/ucla/ucla_armt.json
+  - type: GIERVELD
+    topic: questionnaire_gierveld
+    value_schema: .active.questionnaire.Questionnaire
+    questionnaire_definition_url: https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/gierveld/gierveld_armt.json
+  - type: AUDITUPM
+    topic: questionnaire_auditupm
+    value_schema: .active.questionnaire.Questionnaire
+    questionnaire_definition_url: https://raw.githubusercontent.com/ecariel/RADAR-REDCap-aRMT-Definitions/master/questionnaires/auditupm/auditupm_armt.json
+  - type: COMPLETION_LOG
+    doc: Information about the completeness of each questionnaire.
+    topic: questionnaire_completion_log
+    value_schema: .monitor.questionnaire.QuestionnaireCompletionLog
+  - type: TIMEZONE
+    doc: Timezone information sent along with each questionnaire.
+    topic: questionnaire_timezone
+    value_schema: .monitor.application.ApplicationTimeZone
+  - type: APP_EVENT
+    doc: Questionnaire application interaction event.
+    topic: questionnaire_app_event
+    value_schema: .monitor.questionnaire.QuestionnaireApplicationInteractionEvent

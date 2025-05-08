@@ -1,0 +1,373 @@
+[
+    {
+        "field_name": "ipaq_1",
+        "form_name": "ipaq",
+        "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
+        "field_label": "1. Durante los últimos 7 días, ¿en cuántos días realiza actividades físicas vigorosas, como levantamiento pesado, excavación, ejercicio aeróbico o ciclismo rápido? ",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "1 día"
+            },
+            {
+                "code": "1",
+                "label": "2 días"
+            },
+            {
+                "code": "2",
+                "label": "3 días"
+            },
+            {
+                "code": "3",
+                "label": "4 días"
+            },
+            {
+                "code": "4",
+                "label": "5 días"
+            },
+            {
+                "code": "5",
+                "label": "6 días"
+            },
+            {
+                "code": "6",
+                "label": "7 días"
+            },
+            {
+                "code": "7",
+                "label": "Cualquier día (ir a la tercera pregunta)"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ipaq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    { 
+        "field_name": "ipaq_2",
+        "form_name": "ipaq",
+        "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
+        "field_label": "2. ¿Cuánto tiempo en total pasó generalmente en una intensa actividad física en uno de esos días?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "0-30 min"
+            },
+            {
+                "code": "1",
+                "label": "30-60 min"
+            },
+            {
+                "code": "2",
+                "label": "1h-1h30 min"
+            },
+            {
+                "code": "3",
+                "label": "1h30min-2h"
+            },
+            {
+                "code": "4",
+                "label": "2h-2h30min"
+            },
+            {
+                "code": "5",
+                "label": "2h30min-3h"
+            },
+            {
+                "code": "6",
+                "label": "3h-3h30min"
+            },
+            {
+                "code": "7",
+                "label": "3h30min o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ipaq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {   
+        "field_name": "ipaq_3",
+        "form_name": "ipaq",
+        "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
+        "field_label": "3. Durante los últimos 7 días, ¿en cuántos días realizó actividades físicas moderadas, como llevar pesos ligeros, andar en bicicleta a velocidad regular o jugar al tenis dobles?No incluya caminar.",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "1 día"
+            },
+            {
+                "code": "1",
+                "label": "2 días"
+            },
+            {
+                "code": "2",
+                "label": "3 días"
+            },
+            {
+                "code": "3",
+                "label": "4 días"
+            },
+            {
+                "code": "4",
+                "label": "5 días"
+            },
+            {
+                "code": "5",
+                "label": "6 días"
+            },
+            {
+                "code": "6",
+                "label": "7 días"
+            },
+            {
+                "code": "7",
+                "label": "Cualquier día (ir a la tercera pregunta)"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ipaq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {  
+        "field_name": "ipaq_4",
+        "form_name": "ipaq",
+        "section_header": "Piense en todas las actividades vigorosas que ha realizado en los últimos 7 días.Las actividades físicas vigorosas se refieren a aquellas que implican un esfuerzo físico intenso y te hacen respirar mucho más de lo normal.Piense solo en esas actividades físicas que hizo durante al menos 10 minutos a la vez.",
+        "field_label": "4. ¿Cuánto tiempo en total pasó generalmente en actividad física moderada en uno de esos días?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "0-30 min"
+            },
+            {
+                "code": "1",
+                "label": "30-60 min"
+            },
+            {
+                "code": "2",
+                "label": "1h-1h30 min"
+            },
+            {
+                "code": "3",
+                "label": "1h30min-2h"
+            },
+            {
+                "code": "4",
+                "label": "2h-2h30min"
+            },
+            {
+                "code": "5",
+                "label": "2h30min-3h"
+            },
+            {
+                "code": "6",
+                "label": "3h-3h30min"
+            },
+            {
+                "code": "7",
+                "label": "3h30min o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ipaq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {   
+        "field_name": "ipaq_5",
+        "form_name": "ipaq",
+        "section_header": "Piense en cuánto tiempo pasó caminando en los últimos 7 días.Esto incluye caminar en el trabajo o en casa, para llegar de un lugar a otro, o cualquier otro caminar que pueda hacer solo por recreación, deporte, ejercicio o ocio.",
+        "field_label": "5. Durante los últimos 7 días, ¿en cuántos días caminó durante al menos 10 minutos a la vez?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "1 día"
+            },
+            {
+                "code": "1",
+                "label": "2 días"
+            },
+            {
+                "code": "2",
+                "label": "3 días"
+            },
+            {
+                "code": "3",
+                "label": "4 días"
+            },
+            {
+                "code": "4",
+                "label": "5 días"
+            },
+            {
+                "code": "5",
+                "label": "6 días"
+            },
+            {
+                "code": "6",
+                "label": "7 días"
+            },
+            {
+                "code": "7",
+                "label": "Cualquier día (ir a la tercera pregunta)"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ipaq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "ipaq_6",
+        "form_name": "ipaq",
+        "section_header": "Piense en cuánto tiempo pasó caminando en los últimos 7 días.Esto incluye caminar en el trabajo o en casa, para llegar de un lugar a otro, o cualquier otro caminar que pueda hacer solo por recreación, deporte, ejercicio o ocio.",
+        "field_label": "6. ¿Cuánto tiempo en total pasó solos caminando en uno de esos días?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "0-30 min"
+            },
+            {
+                "code": "1",
+                "label": "30-60 min"
+            },
+            {
+                "code": "2",
+                "label": "1h-1h30 min"
+            },
+            {
+                "code": "3",
+                "label": "1h30min-2h"
+            },
+            {
+                "code": "4",
+                "label": "2h-2h30min"
+            },
+            {
+                "code": "5",
+                "label": "2h30min-3h"
+            },
+            {
+                "code": "6",
+                "label": "3h-3h30min"
+            },
+            {
+                "code": "7",
+                "label": "3h30min o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ipaq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {  
+        "field_name": "ipaq_7",
+        "form_name": "ipaq",
+        "section_header": "La última pregunta es sobre el tiempo que pasaste sentado durante los últimos 7 días hábiles.Esto incluye el tiempo que pasa en el trabajo, en el hogar, en un salón de clases y durante el tiempo libre.Puede incluir el tiempo que pasa sentado en un escritorio, leyendo, viajando en el autobús o sentado o acostado para ver televisión.",
+        "field_label": "7. Por lo general, ¿cuánto tiempo pasó sentado durante un día hábil?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "0-30 min"
+            },
+            {
+                "code": "1",
+                "label": "30-60 min"
+            },
+            {
+                "code": "2",
+                "label": "1h-1h30 min"
+            },
+            {
+                "code": "3",
+                "label": "1h30min-2h"
+            },
+            {
+                "code": "4",
+                "label": "2h-2h30min"
+            },
+            {
+                "code": "5",
+                "label": "2h30min-3h"
+            },
+            {
+                "code": "6",
+                "label": "3h-3h30min"
+            },
+            {
+                "code": "7",
+                "label": "3h30min o más"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "ipaq",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

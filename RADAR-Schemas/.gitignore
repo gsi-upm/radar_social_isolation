@@ -1,0 +1,10 @@
+.DS_Store
+build/
+out/
+.idea/
+*.iml
+.gradle/
+.gradletasknamecache
+exchange.properties
+*.class
+/doc/

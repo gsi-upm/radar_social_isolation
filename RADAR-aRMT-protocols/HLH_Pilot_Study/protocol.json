@@ -1,0 +1,103 @@
+{
+  "version": "0.1.0",
+  "schemaVersion": "0.0.2",
+  "name": "HLH_Pilot_Study",
+  "healthIssues": [
+    "general"
+  ],
+  "protocols": [
+    {
+      "name": "BP",
+      "showIntroduction": true,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "bp",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "This data collection form will allow us to capture your blood pressure at regular intervals from the comfort of your home. You will be asked to take a reading of your blood pressure every week",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "endText": {
+        "en": "Thank you for submitting your blood pressure readings.",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "warn": {
+        "en": "",
+        "it": "",
+        "nl": "",
+        "da": "",
+        "de": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 5,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "week",
+          "amount": 1
+        },
+        "repeatQuestionnaire": {
+          "unit": "hour",
+          "unitsFromZero": [
+            8
+          ]
+        },
+        "reminders": {
+          "unit": "hour",
+          "amount": 24,
+          "repeat": 1
+        },
+        "completionWindow": {
+          "unit": "hour",
+          "amount": 25
+        }
+      }
+    }, {
+      "name": "hlh",
+      "showIntroduction": true,
+      "questionnaire": {
+        "repository": "https://raw.githubusercontent.com/RADAR-base/RADAR-REDCap-aRMT-Definitions/master/questionnaires/",
+        "name": "hlh",
+        "avsc": "questionnaire"
+      },
+      "startText": {
+        "en": "Please complete this questionnaire to help us understand your feelings towards the exercise classes",
+        "nl":""
+      },
+      "endText": {
+        "en": "Thank you for completing the exercise classes and the questionnaire, we hope you are finding them enjoyable so far",
+        "it": ""
+      },
+      "warn": {
+        "en": "",
+        "es": ""
+      },
+      "estimatedCompletionTime": 7,
+      "protocol": {
+        "repeatProtocol": {
+          "unit": "week",
+          "amount": 1
+        },
+        "repeatQuestionnaire": {
+          "unit": "hour",
+          "unitsFromZero": [
+            17
+          ]
+        },
+        "reminders": {
+          "unit": "day",
+          "amount": 1,
+          "repeat": 3
+        }
+      }
+    }
+  ]
+}

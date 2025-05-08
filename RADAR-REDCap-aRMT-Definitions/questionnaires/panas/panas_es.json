@@ -1,0 +1,844 @@
+[
+    {
+        
+        "field_name": "panas_1",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "1. Interesada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_2",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "2. Afligida",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "panas_3",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "3. Excited",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+
+    {
+        
+        "field_name": "panas_4",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "4. Decepcionada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_5",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "5. Fuerte",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_6",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "6. Culpable",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_7",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "7. Asustada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremely"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "caliente",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_8",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "8. Hostil",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_9",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "9. Entusiasta",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_10",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "10. Orgullosa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_11",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "11. irritable",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_12",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "12. Alerta",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_13",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "13. Avergonzada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_14",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "14. Inspirada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_15",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "15. Nerviosa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_16",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "16. Determinada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_17",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "17. Atenta",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_18",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "18. Nerviosa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_19",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "19. Activa",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        
+        "field_name": "panas_20",
+        "form_name": "panas",
+        "section_header": "Indique el alcance que ha sentido así durante la semana pasada.",
+        "field_label": "20. Asustada",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Muy ligeramente o no en absoluto"
+            },
+            {
+                "code": "1",
+                "label": "Un poco"
+            },
+            {
+                "code": "2",
+                "label": "Moderadamente"
+            },
+            {
+                "code": "3",
+                "label": "Bastante"
+            },
+            {
+                "code": "4",
+                "label": "Extremadamente"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "panas",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]

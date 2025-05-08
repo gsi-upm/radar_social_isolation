@@ -1,0 +1,1178 @@
+[
+    {
+        "field_name": "hsleep",
+        "form_name": "isolation",
+        "section_header": "We would like to know how much you sleep",
+        "field_type": "text",
+        "field_label": "How many hours do you usually sleep at night?",
+        "select_choices_or_calculations": [],
+        "field_note": "Enter an integer value.",
+        "text_validation_type_or_show_slider_number": "integer",
+        "text_validation_min": "0",
+        "text_validation_max": "13",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "heacta",
+        "form_name": "isolation",
+        "section_header": "We would like to know the type and amount of physical activity involved in daily life.",
+        "field_type": "radio",
+        "field_label": "1. Do you take part in sports or activities that are vigorous more than once a week?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "More than once a week"
+            },
+            {
+                "code": "2",
+                "label": "Once a week"
+            },
+            {
+                "code": "3",
+                "label": "One to three times a month"
+            },
+            {
+                "code": "4",
+                "label": "Hardly ever or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "heactb",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. Do you take part in sports or activities that are moderately energetic more than once a week?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "More than once a week"
+            },
+            {
+                "code": "2",
+                "label": "Once a week"
+            },
+            {
+                "code": "3",
+                "label": "One to three times a month"
+            },
+            {
+                "code": "4",
+                "label": "Hardly ever or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "heactc",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. Do you take part in sports or activities that are mildly energetic more than once a week?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "More than once a week"
+            },
+            {
+                "code": "2",
+                "label": "Once a week"
+            },
+            {
+                "code": "3",
+                "label": "One to three times a month"
+            },
+            {
+                "code": "4",
+                "label": "Hardly ever or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "hehelf",
+        "form_name": "isolation",
+        "section_header": "Now I would like to ask you some questions about your health.",
+        "field_type": "radio",
+        "field_label": "1. Would you say your health is?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Excellent"
+            },
+            {
+                "code": "2",
+                "label": "Very good"
+            },
+            {
+                "code": "3",
+                "label": "Good"
+            },
+            {
+                "code": "4",
+                "label": "Fair"
+            },
+            {
+                "code": "5",
+                "label": "Poor"
+            }
+        ],
+        "field_note": "Interviewer: Read out the options.",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "heill",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. Do you have any long-standing illness, disability, or infirmity?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "hefunc",
+        "form_name": "isolation",
+        "section_header": "Now I would like to ask you about your ability to walk.",
+        "field_type": "radio",
+        "field_label": "1. By yourself and without using any special equipment, how much difficulty do you have walking for a quarter of a mile?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "No difficulty"
+            },
+            {
+                "code": "2",
+                "label": "Some difficulty"
+            },
+            {
+                "code": "3",
+                "label": "Much difficulty"
+            },
+            {
+                "code": "4",
+                "label": "Unable to do this"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "heeye",
+        "form_name": "isolation",
+        "section_header": "Now I would like to ask you about your eyesight.",
+        "field_type": "radio",
+        "field_label": "1. Is your eyesight (using glasses or corrective lenses if you use them)...",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Excellent"
+            },
+            {
+                "code": "2",
+                "label": "Very good"
+            },
+            {
+                "code": "3",
+                "label": "Good"
+            },
+            {
+                "code": "4",
+                "label": "Fair"
+            },
+            {
+                "code": "5",
+                "label": "Poor"
+            },
+            {
+                "code": "6",
+                "label": "Registered or legally blind"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "hehear",
+        "form_name": "isolation",
+        "section_header": "Now I would like to ask you about your hearing.",
+        "field_type": "radio",
+        "field_label": "2. Is your hearing (using a hearing aid if you use one)...",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Excellent"
+            },
+            {
+                "code": "2",
+                "label": "Very good"
+            },
+            {
+                "code": "3",
+                "label": "Good"
+            },
+            {
+                "code": "4",
+                "label": "Fair"
+            },
+            {
+                "code": "5",
+                "label": "Poor"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "heswgh",
+        "form_name": "isolation",
+        "section_header": "Now I would like to ask you about your weight.",
+        "field_type": "radio",
+        "field_label": "3. Given your age and height, would you say that you are...",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "About the right weight"
+            },
+            {
+                "code": "2",
+                "label": "Too heavy"
+            },
+            {
+                "code": "3",
+                "label": "Too light"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "spcar",
+        "form_name": "isolation",
+        "section_header": "Now I would like to ask you about the use of a car or van.",
+        "field_type": "radio",
+        "field_label": "1. Do you have use of a car or van when you need one (either as a passenger or driver)?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "spcara",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. Do you ever drive this car or van yourself?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No, passenger only"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "sptraa",
+        "form_name": "isolation",
+        "section_header": "Now I would like to ask you about your use of public transport.",
+        "field_type": "radio",
+        "field_label": "3. How often do you use public transport? (If queried, think of the last three months.)",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Every day or nearly every day"
+            },
+            {
+                "code": "2",
+                "label": "Two or three times a week"
+            },
+            {
+                "code": "3",
+                "label": "Once a week"
+            },
+            {
+                "code": "4",
+                "label": "Two or three times a month"
+            },
+            {
+                "code": "5",
+                "label": "Once a month or less"
+            },
+            {
+                "code": "6",
+                "label": "Never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfam",
+        "form_name": "isolation",
+        "section_header": "Do you have any other immediate family, for example, any brothers or sisters, parents, cousins, or grandchildren?",
+        "field_type": "radio",
+        "field_label": "1. Do you have any other immediate family?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfamg",
+        "form_name": "isolation",
+        "section_header": "Thinking about your current situation, on average, how often do you do each of the following with any of these family members, not counting any who live with you?",
+        "field_type": "radio",
+        "field_label": "2. Meet up (including both arranged and chance meetings)",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfamh",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. Speak on the phone/video call",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfamj",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. Write or email",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfamk",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. Send or receive text messages",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfrd",
+        "form_name": "isolation",
+        "section_header": "Do you have any friends?",
+        "field_type": "radio",
+        "field_label": "1. Do you have any friends?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfrdg",
+        "form_name": "isolation",
+        "section_header": "Thinking about your current situation, on average, how often do you do each of the following with any of your friends, not counting any who live with you?",
+        "field_type": "radio",
+        "field_label": "2. Meet up (including both arranged and chance meetings)",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfrdh",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. Speak on the phone/video call",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfrdj",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. Write or email",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scfrdk",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. Send or receive text messages",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scprt",
+        "form_name": "isolation",
+        "section_header": "Do you have a husband, wife or partner with whom you live?",
+        "field_type": "radio",
+        "field_label": "1. Do you have a husband, wife, or partner with whom you live?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scchd",
+        "form_name": "isolation",
+        "section_header": "Do you have any children?",
+        "field_type": "radio",
+        "field_label": "1. Do you have any children?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Yes"
+            },
+            {
+                "code": "2",
+                "label": "No"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scchdg",
+        "form_name": "isolation",
+        "section_header": "Thinking about your current situation, on average, how often do you do each of the following with any of your children, not counting any who live with you?",
+        "field_type": "radio",
+        "field_label": "1. Meet up (including both arranged and chance meetings)",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scchdh",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. Speak on the phone/video call",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scchdj",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. Write or email",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scchdk",
+        "form_name": "isolation",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. Send or receive text messages",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "Three or more times a week"
+            },
+            {
+                "code": "2",
+                "label": "Once or twice a week"
+            },
+            {
+                "code": "3",
+                "label": "Once or twice a month"
+            },
+            {
+                "code": "4",
+                "label": "Every few months"
+            },
+            {
+                "code": "5",
+                "label": "Once or twice a year"
+            },
+            {
+                "code": "6",
+                "label": "Less than once a year or never"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "scorg96",
+        "form_name": "isolation",
+        "section_header": "Respondent is not a member of any organisations, clubs or societies",
+        "field_type": "radio",
+        "field_label": "Are you a member of any organisations, clubs, or societies?",
+        "select_choices_or_calculations": [
+            {
+                "code": "1",
+                "label": "No"
+            },
+            {
+                "code": "2",
+                "label": "Yes"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "isolation",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+    
+]

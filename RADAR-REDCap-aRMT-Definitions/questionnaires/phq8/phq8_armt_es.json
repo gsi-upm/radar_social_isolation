@@ -1,0 +1,382 @@
+[
+    {
+        "field_name": "phq8_1",
+        "form_name": "phq8",
+        "section_header": "¿Con qué frecuencia, en las últimas dos semanas, ha tenido cualquiera de los siguientes problemas?",
+        "field_type": "radio",
+        "field_label": "1. ¿Cuán a menudo se siente triste haciendo tantas cosas solo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_2",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "2. ¿Cuán a menudo siente que no tiene a nadie con quien hablar?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_3",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "3. ¿Cuán a menudo siente que no puede tolerar estar tan solo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_4",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "4. ¿Cuán a menudo se siente como si nadie le entendiera realmente?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_5",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "5. ¿Cuán a menudo se encuentra esperando que otros le llamen o escriban?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_6",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "6. ¿Cuán a menudo se siente completamente solo?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_7",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "7. ¿Cuán a menudo siente que es incapaz de conectar o comunicarse con los que le rodean?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_8",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "8. ¿Cuán a menudo se siente desesperadamente necesitado de compañía?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_9",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "9. ¿Cuán a menudo encuentra que es difícil para usted hacer amigos?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    },
+    {
+        "field_name": "phq8_10",
+        "form_name": "phq8",
+        "section_header": "",
+        "field_type": "radio",
+        "field_label": "10. ¿Cuán a menudo se siente ignorado y excluido por los demás?",
+        "select_choices_or_calculations": [
+            {
+                "code": "0",
+                "label": "Nunca"
+            },
+            {
+                "code": "1",
+                "label": "Raramente"
+            },
+            {
+                "code": "2",
+                "label": "En ocasiones"
+            },
+            {
+                "code": "3",
+                "label": "A menudo"
+            }
+        ],
+        "field_note": "",
+        "text_validation_type_or_show_slider_number": "",
+        "text_validation_min": "",
+        "text_validation_max": "",
+        "identifier": "",
+        "branching_logic": "",
+        "required_field": "",
+        "custom_alignment": "",
+        "question_number": "",
+        "matrix_group_name": "phq8",
+        "matrix_ranking": "",
+        "field_annotation": "",
+        "evaluated_logic": ""
+    }
+]
