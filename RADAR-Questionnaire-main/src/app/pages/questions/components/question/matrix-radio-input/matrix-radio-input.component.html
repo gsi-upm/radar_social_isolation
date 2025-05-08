@@ -1,0 +1,16 @@
+<ion-radio-group>
+  <ion-row>
+    <ion-col *ngFor="let item of items; let i = index">
+      <ion-item color="none" lines="none" class="item-md">
+        <ion-label [attr.for]="item.id" dir="auto">{{
+          item.response
+        }}</ion-label>
+        <ion-radio
+          [value]="item.value"
+          [id]="item.id"
+          (ionSelect)="onInputChange(item.value)"
+        ></ion-radio>
+      </ion-item>
+    </ion-col>
+  </ion-row>
+</ion-radio-group>

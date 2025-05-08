@@ -1,0 +1,54 @@
+flush: 5
+
+## https://docs.fluentbit.io/manual/administration/configuring-fluent-bit/configuration-file
+config:
+  service: |
+    [SERVICE]
+        Daemon Off
+        Flush {{ .Values.flush }}
+        Log_Level {{ .Values.logLevel }}
+        Parsers_File parsers.conf
+        Parsers_File custom_parsers.conf
+        HTTP_Server On
+        HTTP_Listen 0.0.0.0
+        HTTP_Port {{ .Values.metricsPort }}
+        Health_Check On
+
+  ## https://docs.fluentbit.io/manual/pipeline/filters
+  filters: |
+    [FILTER]
+        Name grep
+        match *
+        Exclude log Elasticsearch built-in security features are not enabled
+
+    [FILTER]
+        Name kubernetes
+        Match kube.*
+        Merge_Log On
+        Keep_Log On
+        Annotations On
+        Labels On
+        K8S-Logging.Parser On
+        K8S-Logging.Exclude On
+
+  ## https://docs.fluentbit.io/manual/pipeline/outputs
+  outputs: |
+    [OUTPUT]
+        Name gelf
+        Match kube.*
+        Host graylog-tcp
+        Port 12222
+        Mode tcp
+        gelf_short_message_key log
+        gelf_host_key stream
+        Retry_Limit False
+
+    [OUTPUT]
+        Name gelf
+        Match host.*
+        Host graylog-tcp
+        Port 12222
+        Mode tcp
+        Gelf_Short_Message_Key MESSAGE
+        gelf_host_key stream
+        Retry_Limit False

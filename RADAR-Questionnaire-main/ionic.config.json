@@ -1,0 +1,7 @@
+{
+  "name": "radar-questionnaire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

@@ -1,0 +1,129 @@
+@keyframes fadeIn {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+:root {
+  color: var(--cl-light);
+}
+
+.logo {
+  width: 120px;
+}
+
+.logo-container {
+  margin: auto;
+  padding-bottom: 3vh;
+  width: 120px;
+}
+
+.text {
+  margin: auto;
+  width: 90vw;
+  font-size: 18px;
+}
+
+.text-justify {
+  text-align: justify;
+}
+
+.text-lg {
+  margin-bottom: 2vh;
+  font-size: 40px;
+}
+
+.padding {
+  margin-top: 3vh;
+}
+
+.extra-padding {
+  margin-top: 8vh;
+}
+
+.status {
+  position: absolute;
+  bottom: 14vh;
+  flex: 1 0 100%;
+  padding: auto;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+#outcome {
+  padding: 5px;
+  background-color: var(--cl-danger-40);
+  animation: fadeIn 1s;
+}
+
+#loading {
+  animation: fadeIn 2s infinite;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 184px;
+  margin-left: 8px;
+  width: 96%;
+}
+
+ion-item.item {
+  --margin-bottom: var(--item-separation-distance);
+  --background: var(--cl-primary-40);
+}
+
+ion-item.item:last-child {
+  margin-bottom: 0;
+}
+
+ion-item-divider.item-divider {
+  --background: var(--cl-primary-10);
+  color: var(--cl-font-light);
+  font-size: 2rem;
+}
+
+#settings {
+  margin-bottom: 5vh;
+  padding: 2vh 0;
+}
+
+img {
+  height: 20vh;
+  width: auto;
+}
+
+.reg-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 2vh 0;
+}
+
+ion-card {
+  text-align: center;
+  box-shadow: none !important;
+  height: 100%;
+  margin-top: 160px;
+  margin-bottom: 104px;
+  color: white;
+  --background: transparent;
+  background: transparent;
+}
+
+swiper-container {
+  height: 100%;
+}
+
+.bt--full {
+  width: 100%;
+}
+
+.policy {
+  margin-bottom: 16px;
+}

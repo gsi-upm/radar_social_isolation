@@ -1,0 +1,8 @@
+<ion-list>
+  <ion-radio-group (ionChange)="onInputChange($event)">
+    <ion-item lines="none" *ngFor="let item of items">
+      <ion-radio [value]="item.value" [id]="item.id"></ion-radio>
+      <ion-label dir="auto">{{ item.response }}</ion-label>
+    </ion-item>
+  </ion-radio-group>
+</ion-list>

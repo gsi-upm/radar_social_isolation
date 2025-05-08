@@ -1,0 +1,20 @@
+<div class="value">
+  <div class="value-number">{{ value }}</div>
+</div>
+<ion-range
+  [min]="min"
+  [max]="max"
+  [step]="step"
+  [snaps]="true"
+  [pin]="true"
+  color="secondary"
+  [(ngModel)]="value"
+  (ngModelChange)="onInputChange()"
+>
+  <ion-label slot="start">{{ min }}</ion-label>
+  <ion-label slot="end">{{ max }}</ion-label>
+</ion-range>
+<div class="padding">
+  <div class="labelLeft">{{ labelLeft }}</div>
+  <div class="labelRight">{{ labelRight }}</div>
+</div>

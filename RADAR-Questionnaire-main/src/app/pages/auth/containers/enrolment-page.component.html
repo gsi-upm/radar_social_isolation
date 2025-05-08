@@ -1,0 +1,189 @@
+<ion-content>
+  <swiper-container #swiper [pager]="false">
+    <!-- SLIDE 1 -->
+    <swiper-slide id="intro-language">
+      <ion-card>
+        <div class="logo-container">
+          <img class="logo" src="assets/imgs/radar-logo.svg" alt="RADAR LOGO" />
+        </div>
+        <div class="text">
+          <div class="text-lg">{{ 'ENROL_WELCOME_1' | translate }}</div>
+          {{ 'ENROL_WELCOME_2' | translate }}
+          <div class="padding text-justify extra-padding">
+            <ion-item no-lines>
+              <span class="info-value">{{ language.label | translate }}</span>
+              <span slot="end" (click)="showSelectLanguage()">
+                <ion-icon
+                  class="space-right"
+                  name="caret-down-outline"
+                ></ion-icon>
+                {{ 'BTN_SELECT' | translate }}
+              </span>
+            </ion-item>
+          </div>
+        </div>
+        <div class="bottom">
+          <ion-button
+            ion-button
+            class="bt bt--full"
+            round
+            full
+            (click)="next()"
+          >
+            {{ 'BTN_START' | translate }}
+          </ion-button>
+        </div>
+      </ion-card>
+    </swiper-slide>
+
+    <!-- SLIDE 2 -->
+    <swiper-slide id="intro">
+      <ion-card>
+        <div class="logo-container">
+          <img class="logo" src="assets/imgs/radar-logo.svg" alt="RADAR LOGO" />
+        </div>
+        <div class="text">
+          <div class="text-lg">{{ 'ENROL_WELCOME_1' | translate }}</div>
+          {{ 'ENROL_WELCOME_2' | translate }}
+          <div dir="auto" class="padding text-justify extra-padding">
+            {{ 'ENROL_WELCOME_DESC' | translate }}
+          </div>
+        </div>
+        <div class="bottom">
+          <ion-button class="bt bt--full" round full (click)="next()">
+            {{ 'BTN_ENROL_ENROL' | translate }}
+          </ion-button>
+        </div>
+      </ion-card>
+    </swiper-slide>
+
+    <!-- SLIDE 3 -->
+    <swiper-slide id="qr-registration-choice">
+      <ion-card>
+        <div class="registration">
+          <div class="text text-lg">{{ 'ENROL_REGISTRATION' | translate }}</div>
+          <div dir="auto" class="text text-justify">
+            {{ 'ENROL_REGISTRATION_DESC' | translate }}
+          </div>
+        </div>
+        <div class="bottom">
+          <p>
+            <ion-button
+              ion-button
+              class="bt bt--full"
+              round
+              full
+              (click)="next()"
+            >
+              {{ 'BTN_ENROL_SCAN' | translate }}
+            </ion-button>
+          </p>
+          <p>
+            <ion-button
+              ion-button
+              class="bt bt--full"
+              round
+              full
+              (click)="enterToken()"
+            >
+              {{ 'BTN_ENROL_ENTER_TOKEN' | translate }}
+            </ion-button>
+          </p>
+        </div>
+      </ion-card>
+    </swiper-slide>
+
+    <!-- SLIDE 4 -->
+    <swiper-slide id="qr-registration">
+      <ion-card>
+        <div class="registration">
+          <div class="text text-lg">{{ 'ENROL_REGISTRATION' | translate }}</div>
+          <ng-container *ngIf="enterMetaQR">
+            <token-form
+              [loading]="loading"
+              (data)="authenticate($event)"
+              (focus)="clearStatus()"
+              (errors)="handleError($event)"
+            ></token-form>
+          </ng-container>
+          <ng-container *ngIf="!enterMetaQR">
+            <qr-form
+              [loading]="loading"
+              (data)="authenticate($event)"
+            ></qr-form>
+          </ng-container>
+        </div>
+      </ion-card>
+      <div class="status">
+        <div id="outcome" *ngIf="showOutcomeStatus">
+          {{ outcomeStatus }}
+        </div>
+        <div id="loading" *ngIf="loading && !showOutcomeStatus">
+          {{ 'STATUS_LOADING' | translate }}...
+        </div>
+      </div>
+    </swiper-slide>
+
+    <!-- SLIDE 5 -->
+    <swiper-slide id="privacy-policy">
+        <ion-card>
+          <div class="registration">
+            <div class="text-lg">{{ 'ENROL_REGISTRATION' | translate }}</div>
+
+            <div dir="auto" class="text text-justify">
+                {{ 'ENROL_PRIVACY_POLICY_DESC' | translate }}
+              </div>
+            <div class="padding text-justify extra-padding">
+            </div>
+          </div>
+          <div class="bottom">
+              <ion-button
+              ion-button
+              class="bt bt--full policy"
+              round
+              full
+              (click)="showPrivacyPolicy()"
+            >
+              {{ 'BTN_VIEW_POLICY' | translate }}
+            </ion-button>
+            <ion-button
+              ion-button
+              class="bt bt--full"
+              round
+              full
+              (click)="next()"
+            >
+              {{ 'BTN_NEXT' | translate }}
+            </ion-button>
+          </div>
+        </ion-card>
+      </swiper-slide>
+
+    <!-- SLIDE 6 -->
+    <swiper-slide id="registration-complete">
+      <ion-card>
+        <div class="text text-lg">
+          {{ 'ENROL_REGISTRATION_COMPLETE' | translate }}
+        </div>
+        <div class="reg-icon">
+          <img src="assets/imgs/MobileAnalytics-neg.png" alt="Mobile" />
+        </div>
+        <div dir="auto" class="text text-justify">
+          {{ 'ENROL_REGISTRATION_COMPLETE_DESC' | translate }}
+        </div>
+
+        <div class="bottom">
+          <ion-button
+            ion-button
+            class="bt bt--full"
+            round
+            full
+            (click)="navigateToSplash()"
+          >
+            {{ 'BTN_FINISH' | translate }}
+          </ion-button>
+        </div>
+      </ion-card>
+    </swiper-slide>
+  </swiper-container>
+</ion-content>

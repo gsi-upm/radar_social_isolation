@@ -1,0 +1,62 @@
+<div>
+  <ion-content
+    [scrollY]="true"
+    class="layers"
+    [style.height.vh]="show ? 100 : 0"
+  >
+    <ng-container *ngIf="tasks">
+      <ng-container *ngFor="let sortedTasks of tasks | keyvalue">
+        <div *ngIf="sortedTasks.key == currentDate" class="date ion-padding">
+          {{ 'TASK_CALENDAR_TITLE' | translate }}
+        </div>
+        <div *ngIf="sortedTasks.key !== currentDate" class="date ion-padding">
+          {{ sortedTasks.key / 1000 | amFromUnix | amDateFormat: 'MMM D' }}
+        </div>
+        <ng-container *ngFor="let task of sortedTasks.value; let i = index">
+          <div
+            class="current-time-div"
+            *ngIf="i == timeIndex && sortedTasks.key == currentDate"
+          >
+            <div id="time-current">
+              <ion-row>
+                <ion-col>
+                  <div class="time-current-division left"></div>
+                </ion-col>
+                <ion-col col-auto class="time-current">
+                  {{ currentTime }}
+                </ion-col>
+                <ion-col>
+                  <div class="time-current-division right"></div>
+                </ion-col>
+              </ion-row>
+            </div>
+          </div>
+          <task-calendar-row
+            *ngIf="task.showInCalendar"
+            [task]="task"
+            (click)="clicked(task)"
+            [isTaskNameShown]="isTaskNameShown"
+          ></task-calendar-row>
+        </ng-container>
+        <div
+          class="current-time-div"
+          *ngIf="timeIndex === -1 && sortedTasks.key == currentDate"
+        >
+          <div id="time-current">
+            <ion-row>
+              <ion-col>
+                <div class="time-current-division left"></div>
+              </ion-col>
+              <ion-col col-auto class="time-current">
+                {{ currentTime }}
+              </ion-col>
+              <ion-col>
+                <div class="time-current-division right"></div>
+              </ion-col>
+            </ion-row>
+          </div>
+        </div>
+      </ng-container>
+    </ng-container>
+  </ion-content>
+</div>

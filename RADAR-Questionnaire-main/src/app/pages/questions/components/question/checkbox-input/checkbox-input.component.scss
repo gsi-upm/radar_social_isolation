@@ -1,0 +1,50 @@
+.checked {
+  background-color: var(--cl-primary) !important;
+}
+
+.checkbox-icon {
+  display: none !important;
+  margin: 0;
+}
+
+ion-item {
+  background-color: transparent;
+  --background: transparent;
+  width: 100%;
+  padding: 8px;
+  border: 2px solid white;
+  border-radius: var(--bt-height);
+  background-color: var(--cl-primary-20);
+  color: white;
+  font-size: 18px;
+  position: relative;
+  display: flex;
+  flex-grow: 1;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 16px;
+  --ripple-color: transparent;
+}
+
+ion-label {
+  color: white !important;
+  word-wrap: break-word !important;
+  white-space: normal !important;
+}
+
+ion-list {
+  --background: transparent !important;
+  background-color: transparent !important;
+}
+
+ion-checkbox {
+  --background: transparent;
+  --background-checked: transparent;
+  width: 4px;
+  --border-width: 0px;
+  opacity: 0;
+}
+
+.item-checkbox-checked {
+  background-color: var(--cl-primary) !important;
+}

@@ -1,0 +1,35 @@
+.input {
+  color: var(--ion-font);
+  font-size: 18px;
+  line-height: 1.35em;
+  margin: 24px auto;
+  padding-left: 0;
+  width: 80vw;
+  height: 40px;
+  border-bottom: 2px solid white;
+  background-color: transparent !important;
+}
+
+.form {
+  margin-bottom: 32vh;
+}
+
+.bottom {
+  position: fixed;
+  bottom: 184px;
+  width: 100%;
+}
+
+.bt--full {
+  width: 96%;
+}
+
+.text {
+  margin: auto;
+  width: 90vw;
+  font-size: 18px;
+}
+
+.text-justify {
+  text-align: justify;
+}

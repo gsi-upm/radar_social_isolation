@@ -1,0 +1,46 @@
+swiper-slide.swiper-slide {
+  align-items: flex-start;
+}
+
+swiper-slide {
+  overflow-x: hidden !important;
+  padding: 24px 24px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start !important;
+  align-items: flex-start !important;
+  width: 95vw;
+  height: 99%;
+}
+
+swiper-container {
+  height: 95vh;
+}
+
+.center {
+  text-align: center;
+}
+
+.wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
+.slide-flex {
+  flex: 1;
+  height: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.q-container {
+  width: 88vw;
+}
+
+.matrixGroup {
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+}
