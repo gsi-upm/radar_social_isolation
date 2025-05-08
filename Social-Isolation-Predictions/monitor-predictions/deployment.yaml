@@ -1,0 +1,41 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: monitor-prediccion
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: monitor-prediccion
+  template:
+    metadata:
+      labels:
+        app: monitor-prediccion
+    spec:
+      initContainers:
+      - name: copiar-modelos
+        image: tu-usuario/modelos-image:latest
+        command: ["cp", "/app/*.pkl", "/data/"]
+        volumeMounts:
+        - name: modelos-volumen
+          mountPath: /data
+      containers:
+      - name: monitor-prediccion
+        image: your-dockerhub-username/monitor-prediccion:latest
+        envFrom:
+        - secretRef:
+            name: minio-credentials #Verify RadarBase platform
+        - secretRef:
+            name: elasticsearch-credentials #Verify Elasticsearch pod
+        env:
+        - name: MINIO_ALIAS
+          value: "myminio"
+        - name: MINIO_ENDPOINT
+          value: "minio-service:9000" #Verify Mionio services
+        - name: MINIO_BUCKET
+          value: "radar-intermediate-storage"
+        - name: ELASTICSEARCH_HOST
+          value: "elasticsearch-service" #Verify elasticsearch services
+        - name: ELASTICSEARCH_PORT
+          value: "9200"
+        command: ["/bin/bash", "-c"]
