@@ -3,7 +3,7 @@ RADAR-BASE deployment and ELSA Analytics for Social Isolation
 
 ## 📂 Carpetas
 
-- [**/data**](./RADAR-Questionnaire)  
+- [**/RADAR-Questionnaire**](./RADAR-Questionnaire)  
   It contains the files necessary to build the mobile app in its beta phase, as well as the instructions for its implementation. The app is based on the app implemented for the RADAR-base platform, which focuses on conducting self-reported surveys.
 
 - [**/scripts**](./scripts)  
